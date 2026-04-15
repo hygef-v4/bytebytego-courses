@@ -18,23 +18,8 @@ This repository is a personal collection of learning materials and notes from By
 - Track progress by topic
 - Review interview and system design concepts efficiently
 
-## Suggested Structure
-
-Each course folder can include:
-
-- `notes/` for chapter notes
-- `resources/` for diagrams, links, and references
-- `practice/` for exercises and solutions
-
-## How to Use
-
-1. Open a course folder.
-2. Study by module or chapter.
-3. Add your own notes and summaries as you learn.
-4. Revisit key concepts before interviews.
 
 ## Disclaimer
 
-This repository is for personal learning and organization only.
+This repository is for personal learning only.
 All original course content belongs to ByteByteGo and its respective owners.
-Do not redistribute paid materials.
